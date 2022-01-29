@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 18 22:32:45 2021
 
-@author: Poornima Peiris - 2018/BA/026
+@author: Poornima Peiris
 """
 #01 #################### Importing required libraries ###########################
 import numpy as np
