@@ -53,4 +53,4 @@ Selection of features contributed most to class variable (prediction variable). 
 Outlier is a data point that differs significantly from other observations. By using statistical method IQR outliers were deleted in numerical columns. Outliers in Weight, Height, Agecolumn was deleted. To identify outliers boxplot and histogram of data column separately analyzed. General rule applied.
 
 :page_facing_up: **Source Code**</br>
-There is a one python file and it containing reading data , preprocessing , model application, validation.  
+There is a one python file and it containing reading data , preprocessing , model application, model enhancement and validation.  
